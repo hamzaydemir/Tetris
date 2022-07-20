@@ -1,0 +1,19 @@
+C:\Users\hamza\OneDrive\Masaüstü\Tetris\Tetris\Tetris\bin\Debug\Tetris.exe.config
+C:\Users\hamza\OneDrive\Masaüstü\Tetris\Tetris\Tetris\obj\Debug\Tetris.csprojResolveAssemblyReference.cache
+C:\Users\hamza\OneDrive\Masaüstü\Tetris\Tetris\Tetris\obj\Debug\Tetris.Form1.resources
+C:\Users\hamza\OneDrive\Masaüstü\Tetris\Tetris\Tetris\obj\Debug\Tetris.Properties.Resources.resources
+C:\Users\hamza\OneDrive\Masaüstü\Tetris\Tetris\Tetris\obj\Debug\Tetris.csproj.GenerateResource.Cache
+C:\Users\hamza\OneDrive\Masaüstü\Tetris\Tetris\Tetris\bin\Debug\Tetris.exe
+C:\Users\hamza\OneDrive\Masaüstü\Tetris\Tetris\Tetris\bin\Debug\Tetris.pdb
+C:\Users\hamza\OneDrive\Masaüstü\Tetris\Tetris\Tetris\obj\Debug\Tetris.exe
+C:\Users\hamza\OneDrive\Masaüstü\Tetris\Tetris\Tetris\obj\Debug\Tetris.pdb
+D:\hamza\Yeni klasör\C# Projeler\Tetris\Tetris\Tetris\bin\Debug\Tetris.exe.config
+D:\hamza\Yeni klasör\C# Projeler\Tetris\Tetris\Tetris\bin\Debug\Tetris.exe
+D:\hamza\Yeni klasör\C# Projeler\Tetris\Tetris\Tetris\bin\Debug\Tetris.pdb
+D:\hamza\Yeni klasör\C# Projeler\Tetris\Tetris\Tetris\obj\Debug\Tetris.csprojAssemblyReference.cache
+D:\hamza\Yeni klasör\C# Projeler\Tetris\Tetris\Tetris\obj\Debug\Tetris.Form1.resources
+D:\hamza\Yeni klasör\C# Projeler\Tetris\Tetris\Tetris\obj\Debug\Tetris.Properties.Resources.resources
+D:\hamza\Yeni klasör\C# Projeler\Tetris\Tetris\Tetris\obj\Debug\Tetris.csproj.GenerateResource.cache
+D:\hamza\Yeni klasör\C# Projeler\Tetris\Tetris\Tetris\obj\Debug\Tetris.csproj.CoreCompileInputs.cache
+D:\hamza\Yeni klasör\C# Projeler\Tetris\Tetris\Tetris\obj\Debug\Tetris.exe
+D:\hamza\Yeni klasör\C# Projeler\Tetris\Tetris\Tetris\obj\Debug\Tetris.pdb
